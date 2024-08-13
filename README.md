@@ -1,16 +1,18 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/aa932b75-9c81-4753-8fa0-b1aed8f2f597)
 
-<!--
-**gabrielliribb/gabrielliribb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil :gabrielliribb
 
-Here are some ideas to get you started:
+Meu nome é gabrielli ribeiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :00001121599199sp@al.educacao.sp.gov.br
+
+
+eu.g4byy_
+
+
+
+![descrição do GIF]([link GIF do Tenor](https://media1.tenor.com/m/l6AOZcsATDgAAAAC/chillbro-cat.gif))
